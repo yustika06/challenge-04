@@ -1,0 +1,11 @@
+.Search{
+    margin-top:1rem;
+    margin-bottom: 5rem;
+}
+#btn-cari{
+    background: #5cb85f !important;
+    justify-content: "center"; 
+    margin-top: 42px;
+    margin-right: 5px;
+    color: white;
+}

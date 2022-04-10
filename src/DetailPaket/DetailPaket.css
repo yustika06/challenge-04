@@ -1,0 +1,29 @@
+#detail{
+    padding-left: 8.5rem;
+    padding-right: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:5rem;
+    background-color: white;
+
+}
+.btn-pembayaran{
+    background-color: #5CB85F;
+    border-style: none;
+    margin-top: 1rem;
+    float: right;
+    right: 0;
+    margin-bottom: 1rem;
+}
+#harga{
+    float: right;
+    bottom: 0;
+}
+.payment{
+    background-color: #5CB85F;
+    border-style: none;
+}
+#card-payment{
+    padding: 1rem;
+}
